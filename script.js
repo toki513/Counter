@@ -26,3 +26,4 @@ subButtonElement.addEventListener('click',()=>{
     total-=1;
     updateDisplay();
 })
+
