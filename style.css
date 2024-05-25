@@ -24,7 +24,7 @@ body{
     background-color: chartreuse;
 }
 #counterSubs{
-    font-size: 2rem;
+    font-size: 4rem;
     padding: .5rem 1rem;
     border: 0;
     cursor: pointer;
