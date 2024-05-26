@@ -16,7 +16,7 @@ body{
    justify-content: center;
 }
 #counterAdd{
-    font-size: 2rem;
+    font-size: 3rem;
     padding: .5rem 2rem;
     border: 0;
     cursor: pointer;
